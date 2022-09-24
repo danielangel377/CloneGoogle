@@ -13,6 +13,7 @@ header{
     height: 60px;
 }
 header nav{
+    background-color: #7c7c7c;
     display: flex;
     justify-content: flex-end;
 }
