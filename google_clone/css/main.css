@@ -27,7 +27,7 @@ header nav .nav-right-section{
 }
 nav .nav-right-section a{
     margin-right: 10px;
-    color: #000000;
+    color: #ffffff;
 }
 nav .nav-right-section .menu-icon{
     background-image: url('https://static.thenounproject.com/png/756729-200.png' );
@@ -125,7 +125,7 @@ footer{
     grid-template-columns: 1fr 1fr ;
     align-items: center;
     font-size: 13px;
-    background-color: #f2f2f2;
+    background-color: #7c7c7c;
     border-top: 1px solid #e4e4e4;  
 }
 footer ul{
@@ -142,5 +142,5 @@ footer .footer-rigth{
 }
 footer ul li a{
     margin: 10px;
-    color: #5f6368;
+    color: #ffffff;
 }
